@@ -220,11 +220,15 @@ input[type=submit] {
   .main-section{
     max-width: 750px;
   }
+  nav{
+    margin-right: 30px;
+  }
 }
 
-@media screen and (max-width: 768px){
-
-}
+/* No media query required for max-width 748px
+  because site already looks as expected at 748px
+  with starter code
+*/
 
 @media screen and (max-width: 640px){
   header{
