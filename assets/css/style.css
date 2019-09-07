@@ -4,6 +4,8 @@ body {
   line-height: 34px;
   color: #777777;
   background: url("../images/concrete_seamless.png");
+  margin-top: 0;
+  margin-left: 0;
 }
 
 * {
