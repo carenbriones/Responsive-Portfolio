@@ -109,6 +109,8 @@ footer {
   text-align: center;
   background: #666666;
   border-top: 8px solid #4aaaa5;
+  margin-bottom: 0;
+  margin-right: 0;
   height: 50px;
 }
 
