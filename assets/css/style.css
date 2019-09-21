@@ -36,7 +36,7 @@ h1,
 h2,
 h3,
 .work-description a,
-.personal-links,
+.personal-links a,
 .personal-links a:visited {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
